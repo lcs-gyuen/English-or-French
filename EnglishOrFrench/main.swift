@@ -60,4 +60,3 @@ if englishLetters > frenchLetters {
 if frenchLetters > englishLetters {
     print("This looks like French.")
 }
-
